@@ -1,4 +1,4 @@
-TinDog
+#tinDog
 
 This is a simple website called Tindog, which could be for an app like Tinder but for dogs :D
 
